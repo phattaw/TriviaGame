@@ -1,0 +1,52 @@
+body {
+    background-image: url('../images/futurama_bkgd.png');
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+
+div.jumbotron {
+    background-color: none;
+    opacity: .2;
+}
+
+div.transbox {
+    background-color: none;
+}
+
+div.transbox h1 {
+    color: black;
+}
+
+div.transbox h3 {
+    color: black;
+}
+
+.transbox button {
+    color: black;
+}
+
+
+.btn-primary {
+    align-content: center;
+}
+
+#answer1 {
+    background-color: orange;
+}
+
+#answer2 {
+    background-color: purple;
+}
+
+#answer3 {
+    background-color: greenyellow;
+    color: black;
+}
+
+#answer4 {
+    background-color: grey;
+}
+
+#question {
+    background-color: turquoise;
+}
